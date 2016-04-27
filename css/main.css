@@ -1,1 +1,24 @@
-/*Inserta tu css aqui*/
+.gris {
+	background-color:#e6e6e6;
+}
+
+.foto{
+	height:40px;
+	width:40px;
+	margin: 2px;
+}
+
+.caja{
+ 	border:1px solid gray;
+}
+
+.estado{
+	color:#999999;
+	text-align: center;
+}
+
+.nombres{
+	color:#959491;
+	padding: 10px;
+	text-align: center;
+}
