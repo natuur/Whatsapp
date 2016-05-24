@@ -1,3 +1,13 @@
+.imp1{
+    height: 35px;
+    width: 280px;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
 .gris {
 	background-color:#e6e6e6;
 }
@@ -6,6 +16,8 @@
 	height:40px;
 	width:40px;
 	margin: 2px;
+	float: left;
+	margin: 10px;
 }
 
 .caja{
@@ -15,10 +27,13 @@
 .estado{
 	color:#999999;
 	text-align: center;
-}
+	}
 
 .nombres{
-	color:#959491;
-	padding: 10px;
+	color:#606060;
 	text-align: center;
+}
+
+.scroll{
+	overflow: scroll;
 }
