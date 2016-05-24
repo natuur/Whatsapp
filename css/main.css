@@ -13,8 +13,8 @@
 }
 
 .foto{
-	height:40px;
-	width:40px;
+	height:70px;
+	width:70px;
 	margin: 2px;
 	float: left;
 	margin: 10px;
@@ -22,6 +22,7 @@
 
 .caja{
  	border:1px solid gray;
+ 	padding: 4%;
 }
 
 .estado{
@@ -36,4 +37,61 @@
 
 .scroll{
 	overflow: scroll;
+}
+.fondo{
+	background-image: url(../image/chat-panel-bg.png);
+	
+}
+
+.burbuja{
+	background-color: white;
+	padding: 0.5%;
+	max-width: 100%;
+	box-shadow:1px 1px 1px 1px gray;
+	border-bottom: 1px solid gray;
+	border-radius: 7%;
+	margin-bottom: 4%;
+}
+
+.burbuja2{
+	background-color:#bbd559;
+	padding: 2%;
+	max-width: 80%;
+	margin-left: 35%;
+	box-shadow:1px 1px 1px 1px gray;
+	border-bottom: 1px solid gray;
+	border-radius: 7%;
+	margin-bottom: 4%;
+}
+
+.parra{
+	text-align: left;
+}
+
+.hora{
+	text-align: right;
+}
+
+.andrea{
+	color: #66ffff;
+}
+
+.mariana{
+	color:#ff0080;
+}
+
+.maria{
+	color:#00ae85;
+}
+
+.aldo{
+	color:#ff8000;
+}
+
+.espacio{
+	padding-bottom: 50%;
+}
+
+.abajo{
+	margin-top: 95%;
 }
